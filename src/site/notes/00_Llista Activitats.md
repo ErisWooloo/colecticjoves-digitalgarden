@@ -4,7 +4,7 @@
 
 **Idees per Joves:**
 
-- **[[Activitats/Fer Sabó/00_Activitat - Fer Sabó\|Fer Sabó]] **
+- **[[Activitats/Fer Sabó/00_Activitat - Fer Sabó\|Fer Sabó]]**
 
 - **[[Activitats/Rol\|Rol]]**
 
