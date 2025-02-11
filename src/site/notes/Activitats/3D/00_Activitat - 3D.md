@@ -3,7 +3,6 @@
 ---
 
 Material relacionat: [[Eines + Equipament/Impressora 3D\|Impressora 3D]]
-        
         - Clauer/Segell/Ex Libris Personalitzat
 Idees Joves:
 [[Activitats/3D/Gonggi\|Gonggi]]
