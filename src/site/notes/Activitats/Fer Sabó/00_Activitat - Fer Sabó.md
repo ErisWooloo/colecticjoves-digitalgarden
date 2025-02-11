@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/activitats/fer-sabo/00-activitat-fer-sabo/"}
 ---
 
-Parent: [[00_Llista Activitats_NotForPublish\|00_Llista Activitats_NotForPublish]]
+Parent: [[00_Llista Activitats\|00_Llista Activitats]]
 Olors? Formes? Composició?
 
 Necessitem Equips Protecció Individual (EPI) pels alumnes (guants/ulleres/Roba de màniga llarga).

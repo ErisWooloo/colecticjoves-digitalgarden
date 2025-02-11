@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/activitats/esports/00-activitat-esports/"}
 ---
 
+Parent: [[00_Llista Activitats\|00_Llista Activitats]]
+
 Idees Joves:
 [[Activitats/Esports/Futbol gaèlic\|Futbol gaèlic]]
 [[Activitats/Esports/Boxeig\|Boxeig]]

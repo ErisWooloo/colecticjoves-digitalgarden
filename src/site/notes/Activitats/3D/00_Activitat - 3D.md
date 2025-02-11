@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/activitats/3-d/00-activitat-3-d/"}
 ---
 
+Parent: [[00_Llista Activitats\|00_Llista Activitats]]
 Material relacionat: [[Eines + Equipament/Impressora 3D\|Impressora 3D]]
         - Clauer/Segell/Ex Libris Personalitzat
 Idees Joves:

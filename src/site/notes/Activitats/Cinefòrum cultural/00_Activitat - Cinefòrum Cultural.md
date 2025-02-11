@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/activitats/cineforum-cultural/00-activitat-cineforum-cultural/"}
 ---
 
+Parent: [[00_Llista Activitats\|00_Llista Activitats]]
 [[Activitats/Cinefòrum cultural/Llista Pelis/00_Llista pelis\|Llista Pelis]]
 
 Idees/temes que lis Joves volen tractar: 
